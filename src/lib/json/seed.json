@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"author": {
+			"name": "Eriton",
+			"email": "eriton@gmail.com"
+		},
+		"title": "por que Sexo é bom?",
+		"content": "sexo é bom, sexo é bom, sexo é bom. oooh, oooh, oooh Sexoooooooo é bommmmmmmmm",
+		"published": true
+	},
+	{
+		"id": 2,
+		"author": {
+			"name": "Junior",
+			"email": "junior@gmail.com"
+		},
+		"title": "por que Sexo não é bom?",
+		"content": "sexo é ruim, sexo é ruim, sexo é ruim. oooh, oooh, oooh Sexoooooooo é ruimmm",
+		"published": true
+	},
+	{
+		"id": 3,
+		"author": {
+			"name": "santos",
+			"email": "santos@gmail.com"
+		},
+		"title": "por que Sexo é aceitavel?",
+		"content": "sexo é aceitavel, sexo é aceitavel, sexo é aceitavel. oooh, oooh, oooh Sexoooooooo é aceitaveeeel",
+		"published": true
+	}
+]
